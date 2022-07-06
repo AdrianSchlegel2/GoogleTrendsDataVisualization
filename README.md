@@ -1,2 +1,2 @@
 # GoogleTrendsDataVisualization
-Using Pandas and MatPlotLib to visualize certain Google Trends Data
+Using the **Pandas** and **MatPlotLib** libraries to visualize certain **Google Trends** Data. Particularly dealing with the way the amount of google searches affect the **TSLA stock price** or the **BTC Price** and vice versa and plotting this data against each other to visualize certain trends in both graphs to be able to comprehend these trends. Apart from the **TSLA stock** and **BTC price** I also looked at the **actual unemployment rate** vs the google search for **unemployment benefits in the United States**. The rest of the Jupyter Notebook is all explained in more detail in Markdown on the actual file itself.
